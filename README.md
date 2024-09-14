@@ -49,8 +49,12 @@ This project delves into the dynamic world of YouTube by analyzing a comprehensi
 •	Gross tertiary education enrollment (%): Percentage of the population enrolled in tertiary education in the country
 
 •	Population: Total population of the country
+
 •	Unemployment rate: Unemployment rate in the country
+
 •	Urban_population: Percentage of the population living in urban areas
+
 •	Latitude: Latitude coordinate of the country's location
+
 •	Longitude: Longitude coordinate of the country's location
 
